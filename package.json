@@ -16,6 +16,8 @@
     "@nuxtjs/plausible": "^0.2.4",
     "@types/node": "^20.11.24",
     "eslint": "^8.57.0",
+    "@nuxt/ui": "^2.15.2",
+    "@iconify-json/simple-icons": "^1.1.100",
     "nuxt": "^3.10.3"
   }
 }
