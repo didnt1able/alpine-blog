@@ -1,0 +1,1 @@
+import{k as c,c as o,e as r,a5 as t}from"./DNqsfLMY.js";const a={};function n(e,s){return r(),o("ol",null,[t(e.$slots,"default",{},void 0,!0)])}const d=c(a,[["render",n],["__scopeId","data-v-44b17cca"]]);export{d as default};

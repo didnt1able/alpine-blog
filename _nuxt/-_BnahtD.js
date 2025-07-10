@@ -1,0 +1,1 @@
+import{d as a,c as o,a5 as s,e as n,k as d}from"./DNqsfLMY.js";const c=["type","disabled"],l=a({__name:"Button",props:{type:{type:String,default:"submit"},disabled:{type:Boolean,default:!1}},setup(e){return(t,p)=>(n(),o("button",{type:e.type,disabled:e.disabled},[s(t.$slots,"default",{},void 0,!0)],8,c))}}),_=d(l,[["__scopeId","data-v-c38389c2"]]);export{_ as default};
